@@ -1,6 +1,6 @@
-# How to enter into a contributor agreement with Hello Robot Inc.? 
+# How do I contribute to materials for the Stretch mobile manipulator?
 
-Please download and sign the individual or entity PDF file, depending on whether or not you are contributing as an individual or are part of an organization that is contributing. After signing the PDF, please email it as an attachment to info@hello-robot.com . A company officer at Hello Robot Inc. will review the document and sign it, if we choose to enter into the agreement. If Hello Robot Inc. agrees to the terms, a final executed copy will be emailed back to you.
+Please download and sign the individual or entity PDF file found in this repository, depending on whether you are contributing as an individual or as part of an organization. After signing the PDF, please email it as an attachment to info@hello-robot.com . Hello Robot Inc. will review the document. If Hello Robot Inc. agrees to the terms, a final signed copy will be emailed back to you.
 
 # Why do we ask contributors to sign contributor license agreements?
 
