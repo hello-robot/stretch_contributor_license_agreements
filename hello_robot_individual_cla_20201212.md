@@ -7,7 +7,7 @@ Individual Contributor Exclusive License Agreement
 (including the Traditional Patent License OPTION)
 -------------------------------------------------
 
-Thank you for your interest in contributing to Hello Robot Inc.'s Stretch ("We" or "Us").
+Thank you for your interest in contributing to Hello Robot Inc.'s Stretch mobile manipulator ("We" or "Us").
 
 The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please sign the document and email a PDF file to info@hello-robot.com to obtain a signature from a company officer of Hello Robot Inc. Assuming that Hello Robot Inc. agrees to the terms, a final executed copy will be emailed back to you. 
 
@@ -117,10 +117,10 @@ Date:
 
 Name:
 
-Title: 
+Title: Officer of Hello Robot Inc.
 
 Address: 825 Ferry St Suite A, Martinez, CA 94553, United States
 
-#### Recreate this Contributor License Agreement
+#### Provenance of this Contributor License Agreement
 
-Initially generated with [http://contributoragreements.org/](http://contributoragreements.org/)
+Initial version generated with [http://contributoragreements.org/](http://contributoragreements.org/).
