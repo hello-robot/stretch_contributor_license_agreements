@@ -2,7 +2,7 @@
 
 Please download and sign the individual or entity PDF file found in this repository, depending on whether you are contributing as an individual or as part of an organization. After signing the PDF, please email it as an attachment to info@hello-robot.com . Hello Robot Inc. will review the document. If Hello Robot Inc. agrees to the terms, a final signed copy will be emailed back to you.
 
-# Why do we ask contributors to sign contributor license agreements?
+# Why do we ask contributors to sign contributor license agreements (CLAs)?
 
 Hello Robot Inc. values the community forming around the Stretch mobile manipulator. We welcome interest in contributing to the materials we have released. Since we are working to build a company that will stand the test of time, we require contributor license agreements (CLAs) from individuals and entities who wish to contribute to the company repositories.
 
