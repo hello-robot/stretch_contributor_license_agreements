@@ -23,7 +23,7 @@ sudo apt install pandoc
 sudo apt install texlive-fonts-recommended
 ```
 
-Then we then used the following commands to generate the PDF files.
+We then used the following commands to generate the PDF files.
 
 ```
 pandoc -V geometry:margin=1in -s hello_robot_individual_cla_20201212.md -o hello_robot_individual_cla_20201212.pdf 
