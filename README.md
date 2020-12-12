@@ -1,4 +1,4 @@
-# stretch_contributor_license_agreements
+# Why do we ask contributors to sign contributor license agreements?
 
 Hello Robot Inc. values the community forming around the Stretch mobile manipulator. We welcome interest in contributing to the materials we have released. Since we are working to build a company that will stand the test of time, we require a contributor license agreements (CLAs) from individuals and entities. 
 
