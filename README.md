@@ -1,4 +1,4 @@
-## How do I contribute to the official Stretch mobile manipulator repositiories?
+## How do I contribute to Hello Robot's official repositiories?
 
 Please download and sign the individual or entity PDF file found in this repository, depending on whether you are contributing as an individual or as part of an organization. After signing the PDF, please email it as an attachment to info@hello-robot.com . Hello Robot Inc. will review the document. If Hello Robot Inc. agrees to the terms, a final signed copy will be emailed back to you.
 
