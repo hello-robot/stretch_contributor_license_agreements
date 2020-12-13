@@ -8,7 +8,7 @@ Hello Robot Inc. values the community forming around the Stretch mobile manipula
 
 Hello Robot Inc. uses a variety of [Open Source Initiative (OSI)](https://opensource.org/licenses) approved licenses. Hello Robot Inc. reserves the right to dual license these materials. This provides a method by which Hello Robot Inc. can serve businesses with distinct licensing requirements. For us to accept contributions to the official materials from an individual or entity outside of Hello Robot Inc., the individual or entity must sign a contributor license agreement (CLA) found within this repository. 
 
-## How did you created these agreements? 
+## How did you create these agreements? 
 
 We first generated contributor license agreements (CLAs) with http://contributoragreements.org/ by selecting "Create Custom CLA" and "Option 5 - No commitment to any specific outbound license." and "Traditional Patent License". We then made minor edits to the resulting markdown files. 
 
